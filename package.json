@@ -1,6 +1,8 @@
 {
   "name": "mario-jump",
   "version": "0.1.0",
+  "homepage": "https://ikase-comm.github.io/mario-jump",
+  "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
     "@testing-library/jest-dom": "^5.16.5",
@@ -11,6 +13,9 @@
     "react-redux": "^8.0.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   },
   "scripts": {
     "predeploy": "npm run build",
