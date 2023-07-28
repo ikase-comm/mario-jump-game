@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/mario-jump/static/css/main.cf010bd9.css",
-    "main.js": "/mario-jump/static/js/main.fdaa3814.js",
-    "static/media/running-about.mp3": "/mario-jump/static/media/running-about.d1d8b7c0e0b97bddeebf.mp3",
-    "static/media/brick.svg": "/mario-jump/static/media/brick.44708ef6c516df1897fc.svg",
-    "static/media/mario-run.gif": "/mario-jump/static/media/mario-run.fd7bdc0892c38f605211.gif",
-    "static/media/koopa.gif": "/mario-jump/static/media/koopa.1f04618966574b6da392.gif",
-    "static/media/mario-died.mp3": "/mario-jump/static/media/mario-died.1e9239162bd239b0f088.mp3",
-    "static/media/Pixel_NES.otf": "/mario-jump/static/media/Pixel_NES.40064b60bb79b4ffa4a6.otf",
-    "static/media/birds.gif": "/mario-jump/static/media/birds.a9f99bdbc6f01b4bdb6d.gif",
-    "static/media/mario.png": "/mario-jump/static/media/mario.0624e0f9ba9b0ba568de.png",
-    "static/media/clouds.gif": "/mario-jump/static/media/clouds.445aed1b0167b52e7ea5.gif",
-    "static/media/sun.gif": "/mario-jump/static/media/sun.660dbb9207c401cc1488.gif",
-    "static/media/mario-jump.mp3": "/mario-jump/static/media/mario-jump.007acee8d04f16104409.mp3",
-    "index.html": "/mario-jump/index.html",
-    "main.cf010bd9.css.map": "/mario-jump/static/css/main.cf010bd9.css.map",
-    "main.fdaa3814.js.map": "/mario-jump/static/js/main.fdaa3814.js.map"
+    "main.css": "/static/css/main.dd85507e.css",
+    "main.js": "/static/js/main.a10ff0bc.js",
+    "static/media/running-about.mp3": "/static/media/running-about.a23cc18aa36ec5fe6648.mp3",
+    "static/media/brick.svg": "/static/media/brick.44708ef6c516df1897fc.svg",
+    "static/media/mario-run.gif": "/static/media/mario-run.fc952b99359d371a14b5.gif",
+    "static/media/koopa.gif": "/static/media/koopa.1f04618966574b6da392.gif",
+    "static/media/mario-died.mp3": "/static/media/mario-died.1e9239162bd239b0f088.mp3",
+    "static/media/Pixel_NES.otf": "/static/media/Pixel_NES.40064b60bb79b4ffa4a6.otf",
+    "static/media/birds.gif": "/static/media/birds.a9f99bdbc6f01b4bdb6d.gif",
+    "static/media/mario.png": "/static/media/mario.0624e0f9ba9b0ba568de.png",
+    "static/media/clouds.gif": "/static/media/clouds.445aed1b0167b52e7ea5.gif",
+    "static/media/mario-jump.mp3": "/static/media/mario-jump.cff1cd94fbeee058bf65.mp3",
+    "static/media/sun.gif": "/static/media/sun.660dbb9207c401cc1488.gif",
+    "index.html": "/index.html",
+    "main.dd85507e.css.map": "/static/css/main.dd85507e.css.map",
+    "main.a10ff0bc.js.map": "/static/js/main.a10ff0bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf010bd9.css",
-    "static/js/main.fdaa3814.js"
+    "static/css/main.dd85507e.css",
+    "static/js/main.a10ff0bc.js"
   ]
 }
